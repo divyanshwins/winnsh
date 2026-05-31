@@ -1,2 +1,0 @@
-# winnsh
-winnsh
